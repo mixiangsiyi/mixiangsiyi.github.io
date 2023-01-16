@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>文章标题</title>
+      <link href="/2023/01/16/demo/"/>
+      <url>/2023/01/16/demo/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/01/16/hello-world/"/>
       <url>/2023/01/16/hello-world/</url>
@@ -44,9 +57,42 @@
     
     
     <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/test.css"/>
+      <url>/css/test.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;}#page-header {    background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {    background: transparent !important;}#page-header::before {    background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {    background: transparent !important;}[data-theme="dark"] #page-header::before {    background: transparent !important;}@font-face {    /* 为载入的字体取名字(随意) */    font-family: 'YSHST';    /* 字体文件地址(相对或者绝对路径都可以) */    src: url(/font/霞鹜文楷.woff2);    /* 定义加粗样式(加粗多少) */    font-weight: normal;    /* 定义字体样式(斜体/非斜体) */    font-style: normal;    /* 定义显示样式 */    font-display: block;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -69,17 +115,6 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       

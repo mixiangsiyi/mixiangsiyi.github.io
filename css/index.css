@@ -1373,7 +1373,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: -apple-system, BlinkMacSystemFont;
+  font-family: YSHST,-apple-system, BlinkMacSystemFont;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1399,7 +1399,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://s2.loli.net/2023/01/16/q9frRuJk3ceIQ1X.jpg);
+  background: url(https://s2.loli.net/2023/01/16/q38nzBeSCMUf1ol.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -1504,7 +1504,7 @@ a:hover {
 .site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: -apple-system, BlinkMacSystemFont;
+  font-family: YSHST,-apple-system, BlinkMacSystemFont;
 }
 .is-center {
   text-align: center;
@@ -1991,7 +1991,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont;
+  font-family: YSHST,-apple-system, BlinkMacSystemFont;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
