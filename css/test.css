@@ -557,14 +557,14 @@ h6::before {
 
 /* 设置风车颜色 */
 #content-inner.layout h1::before {
-    color: #ef50a8;
+    color: #d3cf5e;
     margin-left: -1.55rem;
     font-size: 1.3rem;
     margin-top: -0.23rem;
 }
 
 #content-inner.layout h2::before {
-    color: #fb7061;
+    color: #34d744a5;
     margin-left: -1.35rem;
     font-size: 1.1rem;
     margin-top: -0.12rem;
