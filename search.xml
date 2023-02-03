@@ -68,17 +68,6 @@
     
     
     <entry>
-      <title>Kiwi Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<p><link rel="stylesheet" href="https://cdn.chrelyonly.cf/npm/aplayer/dist/APlayer.min.css"></p><p><script src="https://cdn.chrelyonly.cf/npm/aplayer/dist/APlayer.min.js"></script></p><p><script src="https://cdn.chrelyonly.cn/Meting.min.js"></script></p><blockquote><p> 来听听猕猴桃的声音吧</p></blockquote><hr><h3 id="如听仙乐耳暂明"><a href="#如听仙乐耳暂明" class="headerlink" title="如听仙乐耳暂明"></a>如听仙乐耳暂明</h3><p><meting-js server="netease" type="playlist" fixed="false"   id="2278251604"><br><br></p><h3 id="请君与我侧耳听"><a href="#请君与我侧耳听" class="headerlink" title="请君与我侧耳听"></a>请君与我侧耳听</h3><p><meting-js server="netease" type="playlist" fixed="false"   id="6960440256"><br><br></p><hr>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>About us</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -117,6 +106,17 @@
       <url>/type/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Kiwi Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<p><link rel="stylesheet" href="https://cdn.chrelyonly.cf/npm/aplayer/dist/APlayer.min.css"></p><p><script src="https://cdn.chrelyonly.cf/npm/aplayer/dist/APlayer.min.js"></script></p><p><script src="https://cdn.chrelyonly.cn/Meting.min.js"></script></p><blockquote><p> 来听听猕猴桃的声音吧</p></blockquote><hr><h3 id="如听仙乐耳暂明"><a href="#如听仙乐耳暂明" class="headerlink" title="如听仙乐耳暂明"></a>如听仙乐耳暂明</h3><p><meting-js server="netease" type="playlist" fixed="false"   id="2278251604"><br><br></p><h3 id="请君与我侧耳听"><a href="#请君与我侧耳听" class="headerlink" title="请君与我侧耳听"></a>请君与我侧耳听</h3><p><meting-js server="netease" type="playlist" fixed="false"   id="6960440256"><br><br></p><hr>]]></content>
       
     </entry>
     
