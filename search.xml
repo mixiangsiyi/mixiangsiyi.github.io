@@ -46,33 +46,11 @@
     
     
     <entry>
-      <title>About us</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<hr><h1 id="团队介绍"><a href="#团队介绍" class="headerlink" title="团队介绍"></a>团队介绍</h1><blockquote><p>我们是一个充满激情和创新精神的团队，我们参加互联网加速赛。我们由一群有着丰富经验和技术能力的成员组成，我们相信通过共同努力和团队合作，我们能够在比赛中取得优异的成绩。我们的团队成员都具备良好的沟通能力和团队协作精神，并且我们非常重视学习和成长。我们将不断努力，不断提升，在未来的竞赛中取得更好的成绩。<br><br></p></blockquote><h1 id="团队目标"><a href="#团队目标" class="headerlink" title="团队目标"></a>团队目标</h1><blockquote><p>我们团队的目标是开发出一种高效、精确、可靠的猕猴桃自动采摘机器人。我们希望通过运用最先进的机器视觉和机器学习技术，让这种机器人能够识别猕猴桃的成熟度和采摘位置，并在保证水果质量的同时，提高采摘效率和降低采摘成本。我们相信这种机器人将会在猕猴桃种植业中发挥重要作用，帮助农民提高收入，提升农业科技水平。我们的团队将紧密合作，共同开发，持续优化，直至达到我们的目标。我们将不断学习和提高，持续创新，使我们的产品能够在互联网大赛中脱颖而出。<br><br></p></blockquote><h1 id="团队信息"><a href="#团队信息" class="headerlink" title="团队信息"></a>团队信息</h1><blockquote><p>团队成员由人文、信工、经管组成，成员各自发挥专业所长，一起将项目做到最好。</p></blockquote><p><br></p><hr>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Kiwi Image</title>
       <link href="/Gallery/index.html"/>
       <url>/Gallery/index.html</url>
       
         <content type="html"><![CDATA[<h1 id="猕猴桃采摘机器"><a href="#猕猴桃采摘机器" class="headerlink" title="猕猴桃采摘机器"></a>猕猴桃采摘机器</h1><table>  <tr>    <td><img src="https://s2.loli.net/2023/01/18/LFv1i52QjGCmZgo.png" alt="image1"></td>    <td><img src="https://s2.loli.net/2023/01/18/L1hleqc4VpaDUH2.png" alt="image2"></td>  </tr></table><h1 id="猕猴桃"><a href="#猕猴桃" class="headerlink" title="猕猴桃"></a>猕猴桃</h1><table>  <tr>    <td><img src="https://images.unsplash.com/photo-1585059895524-72359e06133a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" style="width:100%;"></td>    <td><img src="https://images.unsplash.com/photo-1552801386-22419317d4d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" style="width:100%;"></td>  </tr>  <tr>    <td><img src="https://images.unsplash.com/photo-1599874982659-d5418a2da31a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" style="width:100%;"></td>    <td><img src="https://images.unsplash.com/photo-1611575330633-551252bafad7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" style="width:100%;"></td>  </tr></table>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -90,11 +68,33 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Kiwi Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>来听听猕猴桃的声音吧</p></blockquote><hr><h3 id="如听仙乐耳暂明"><a href="#如听仙乐耳暂明" class="headerlink" title="如听仙乐耳暂明"></a>如听仙乐耳暂明</h3><p><br></p><p><div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2278251604" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div><br><br></p><h3 id="请君与我侧耳听"><a href="#请君与我侧耳听" class="headerlink" title="请君与我侧耳听"></a>请君与我侧耳听</h3><p><br><br>&lt;!DOCTYPE html&gt;</p><html>    <head>        <meta charset="utf-8" />        <title></title>        <!-- require APlayer -->    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>    <!-- require MetingJS -->    <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>    </head>    <body>    <meting-js server="netease" type="playlist" id="60198"></meting-js>    </body></html><h2 id=""><a href="#" class="headerlink" title=""></a><br></h2>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>About us</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<hr><h1 id="团队介绍"><a href="#团队介绍" class="headerlink" title="团队介绍"></a>团队介绍</h1><blockquote><p>我们是一个充满激情和创新精神的团队，我们参加互联网加速赛。我们由一群有着丰富经验和技术能力的成员组成，我们相信通过共同努力和团队合作，我们能够在比赛中取得优异的成绩。我们的团队成员都具备良好的沟通能力和团队协作精神，并且我们非常重视学习和成长。我们将不断努力，不断提升，在未来的竞赛中取得更好的成绩。<br><br></p></blockquote><h1 id="团队目标"><a href="#团队目标" class="headerlink" title="团队目标"></a>团队目标</h1><blockquote><p>我们团队的目标是开发出一种高效、精确、可靠的猕猴桃自动采摘机器人。我们希望通过运用最先进的机器视觉和机器学习技术，让这种机器人能够识别猕猴桃的成熟度和采摘位置，并在保证水果质量的同时，提高采摘效率和降低采摘成本。我们相信这种机器人将会在猕猴桃种植业中发挥重要作用，帮助农民提高收入，提升农业科技水平。我们的团队将紧密合作，共同开发，持续优化，直至达到我们的目标。我们将不断学习和提高，持续创新，使我们的产品能够在互联网大赛中脱颖而出。<br><br></p></blockquote><h1 id="团队信息"><a href="#团队信息" class="headerlink" title="团队信息"></a>团队信息</h1><blockquote><p>团队成员由人文、信工、经管组成，成员各自发挥专业所长，一起将项目做到最好。</p></blockquote><p><br></p><hr>]]></content>
       
     </entry>
     
@@ -112,11 +112,11 @@
     
     
     <entry>
-      <title>Kiwi Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>来听听猕猴桃的声音吧</p></blockquote><hr><h3 id="如听仙乐耳暂明"><a href="#如听仙乐耳暂明" class="headerlink" title="如听仙乐耳暂明"></a>如听仙乐耳暂明</h3><p><br></p><p><div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2278251604" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div><br><br></p><h3 id="请君与我侧耳听"><a href="#请君与我侧耳听" class="headerlink" title="请君与我侧耳听"></a>请君与我侧耳听</h3><p><br></p><p><div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="691544790" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div></p><h2 id=""><a href="#" class="headerlink" title=""></a><br></h2>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
